@@ -1,4 +1,4 @@
-# 
+# Turbo Visual Studio scripts pour Mac OS | Officiel Visual Studio scripts pour PC Windows. Avec gestion des cookies et outils de build — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
